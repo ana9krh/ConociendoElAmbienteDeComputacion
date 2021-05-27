@@ -1,0 +1,16 @@
+- Niveles y Tipos de Permisos para Archivos
+
+Existen tres tipos de niveles, estos dependen del tipo de persona: Si puede tener acceso o permisos sobre un archivo o no.
+Estos son: El propietario, grupo y otros, donde cada nivel tiene permitido realizar un cierto tipo de cambios. 
+Los permisos que se pueden otorgar son: Lectura, Ejecución y Lectura. Será el propietario el que pueda cambiar los permisos 
+que se otorgan del archivo dado que es el creador de ese archivo y puede otorgarlo a un
+grupo de usuarios o a otro tipo de personas externas que no pertenecen a un grupo.
+
+- Explicación de Permisos para Carpetas
+
+Los permisos que pueden ser otorgados, autorizan realizar una actividad diferente.
+* Lectura: Se puede observar y leer el contenido del archivo, pero no se puede modificar o eliminar.
+* Escritura: Es válido crear o eliminar cualquier archivo o directorio, o bien, también es posible
+modificar tanto el contenido como los permisos del archivo.
+* Ejecución: Sólo es posible entrar al directorio y ejecutar el contenido del archivo.
+

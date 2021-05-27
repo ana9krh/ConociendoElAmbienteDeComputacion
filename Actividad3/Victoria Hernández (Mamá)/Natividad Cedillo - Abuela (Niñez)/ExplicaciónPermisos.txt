@@ -1,0 +1,7 @@
+- Niveles y Tipos de Permisos para Archivos
+
+Existen tres tipos de niveles, estos dependen del tipo de persona: Si puede tener acceso o permisos sobre un archivo o no.
+Estos son: El propietario, grupo y otros, donde cada nivel tiene permitido realizar un cierto tipo de cambios. 
+Los permisos que se pueden otorgar son: Lectura, Ejecución y Lectura. Será el propietario el que pueda cambiar los permisos 
+que se otorgan del archivo dado que es el creador de ese archivo y puede otorgarlo a un
+grupo de usuarios o a otro tipo de personas externas que no pertenecen a un grupo.
